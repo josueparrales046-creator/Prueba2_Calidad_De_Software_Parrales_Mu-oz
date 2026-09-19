@@ -87,6 +87,7 @@ namespace EjemploMVC.Models
 
     public class DogImage
     {
+        public string Thumb { get; set; }
         public string Medium { get; set; }
     }
 
